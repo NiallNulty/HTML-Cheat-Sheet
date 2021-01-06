@@ -11,4 +11,10 @@ Contains
 * Different Types of Lists
 * Tables
 * Forms / Different Types of Inputs
-* iFrames
+* iframes
+
+Correctly using HTML Tags:
+* html, head & body tags
+* correctly wrapped tags e.g. header, main & footer are inside body <br/>
+  inputs are wrapped inside form <br/>
+  
