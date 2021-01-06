@@ -1,7 +1,7 @@
 # HTML-Cheat-Sheet
 Simple HTML for reference in future projects 
 
-Contains
+Contains:
 * Meta Tags
 * Website Title
 * HTML Styling
